@@ -8,6 +8,10 @@
 
 # User-specific files
 .Ruserdata
+Exercise_3.Rproj
+Helomorph_data_full.csv
+Helomorph_data_ful.xlsx
+Exercise_3.Rmd
 
 # Example code in package build process
 *-Ex.R
